@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{iphone-style-checkboxes}
-  s.version = "0.0.1"
+  s.version = "0.0.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Thomas Reynolds"]
@@ -22,8 +22,10 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "iphone-style-checkboxes.gemspec",
      "lib/iphone-style-checkboxes.rb",
      "stylesheets/_iphone-style-checkboxes.sass",
+     "templates/project/iphone-style-checkboxes.js",
      "templates/project/iphone-style-checkboxes/off.png",
      "templates/project/iphone-style-checkboxes/on.png",
      "templates/project/iphone-style-checkboxes/slider.png",
