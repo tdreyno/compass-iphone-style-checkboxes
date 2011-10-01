@@ -4,7 +4,7 @@ Install Gem:
 gem install iphone-style-checkboxes
 
 Install into Compass:
-compass install iphone-style-checkboxes
+compass install -r iphone-style-checkboxes iphone-style-checkboxes
 
 == Copyright
 
